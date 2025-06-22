@@ -7,7 +7,7 @@ BookMyStay is a full-stack web application that lets users explore, create, and 
 
 ## 🔗 Live Website
 
-✨ [Click here to view Wanderlust](https://bookmystay-aosg.onrender.com/listings)
+✨ [Click here to view site](https://bookmystay-aosg.onrender.com/listings)
 
 > Deployed and fully functional — explore listings, leave reviews, and browse by location.
 
@@ -17,7 +17,7 @@ BookMyStay is a full-stack web application that lets users explore, create, and 
 
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-> 🔍 A quick walkthrough of Wanderlust's core features, user flow, and UI experience.
+> 🔍 A quick walkthrough of Site's core features, user flow, and UI experience.
 
 ---
 
