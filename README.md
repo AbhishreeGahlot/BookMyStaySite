@@ -25,7 +25,7 @@ BookMyStay is a full-stack web application that lets users explore, create, and 
 
 | Home Page | Listing Details | Create Listing |
 |-----------|-----------------|----------------|
-| ![Home](./assets/home.png) | ![Details](./assets/details.png) | ![Form](./assets/create.png) |
+| ![Home](./assets/home.png) | ![Details](./assets/listing_1.png) |  ![Details](./assets/listing_2.png) | ![Details](./assets/listing_3.png) | ![Form](./assets/new.png) |
 
 ---
 
