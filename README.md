@@ -15,7 +15,7 @@ BookMyStay is a full-stack web application that lets users explore, create, and 
 
 ## 🎬 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](assets/demo.mp4)
 
 > 🔍 A quick walkthrough of Site's core features, user flow, and UI experience.
 
