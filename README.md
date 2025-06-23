@@ -7,7 +7,7 @@ BookMyStay is a full-stack web application that lets users explore, create, and 
 
 ## 🔗 Live Website
 
-✨ [Click here to view site](https://bookmystay-aosg.onrender.com/listings)
+✨ [Click here to view site](https://bookmystay-aosg.onrender.com/signup)
 
 > Deployed and fully functional — explore listings, leave reviews, and browse by location.
 
